@@ -1,5 +1,5 @@
 # sk6091-2019-1
-Independent Research in Computational Science 1
+Independent Research in Computational Science 1 | Penelitian Mandiri Sains Komputasi 1
 
 ## Modules
 1. [Pengenalan Neural Network dengan Python](https://github.com/dudung/sk6091-2019-1/tree/master/20917009) by [Achmad Maulana Gani](https://github.com/masgani)
